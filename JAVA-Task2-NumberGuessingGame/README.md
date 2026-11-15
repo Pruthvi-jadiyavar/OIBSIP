@@ -51,3 +51,10 @@ java -cp out NumberGuessingGameGUI
 3. After each guess you get "Too High!", "Too Low!" or "Correct!".
 4. Guess the number before you run out of attempts.
 5. Click **New Round** to play again. Your round-by-round summary and best scores are shown at the bottom of the window as you play.
+
+
+
+
+<img width="1920" height="1140" alt="Screenshot 2026-11-15 131634" src="https://github.com/user-attachments/assets/5a85f869-fc13-4570-9faf-0794b3ff321b" />
+<img width="1920" height="1140" alt="Screenshot 2026-11-15 131554" src="https://github.com/user-attachments/assets/eb63b384-f67b-4672-9a83-822a7434adb2" />
+<img width="1920" height="1140" alt="Screenshot 2026-11-15 131335" src="https://github.com/user-attachments/assets/9e78948d-e70a-4e8b-a56f-28b7b0a08855" />
