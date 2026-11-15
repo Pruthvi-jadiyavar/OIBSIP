@@ -94,3 +94,10 @@ Verifies: schema creation → admin login → train lookup → book → fetch by
 - `db.properties` holds the local database password. Keep it out of version control.
 - Passwords for the demo accounts are stored as SHA-256 hashes in the `users` table.
 - Seeded trains live in the `trains` table; insert your own rows to add more.
+
+
+
+<img width="1907" height="911" alt="Screenshot 2026-11-15 132303" src="https://github.com/user-attachments/assets/f10d5878-d0a6-4b08-8835-eb20bf762760" />
+<img width="1907" height="905" alt="Screenshot 2026-11-15 132242" src="https://github.com/user-attachments/assets/763e8e17-8fb6-4812-bc5c-ee7aeaeb043a" />
+<img width="1907" height="942" alt="Screenshot 2026-11-15 132146" src="https://github.com/user-attachments/assets/bba298a8-e0ef-4d17-9929-437fd1309efa" />
+
